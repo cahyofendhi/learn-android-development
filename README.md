@@ -2,11 +2,10 @@
 
 website links about android development
 
-# android ui pattern
+# all sites
 https://androiduipatterns.com/
-
-# styling android
+https://androiduiux.com/
 https://blog.stylingandroid.com/
-
-# talk android
 http://www.talkandroid.com/
+http://www.vogella.com/tutorials/android.html
+http://androidweekly.net/
